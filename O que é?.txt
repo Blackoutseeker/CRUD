@@ -1,0 +1,6 @@
+C - Create
+R - Read
+U - Update
+D - Delete
+
+Um sistema CRUD é um banco de dados completo que possibilita ao usuário a criação de um novo dado no banco(escrever), ler dados, fazer a atualização de algum dado e deletar determinado dado.
